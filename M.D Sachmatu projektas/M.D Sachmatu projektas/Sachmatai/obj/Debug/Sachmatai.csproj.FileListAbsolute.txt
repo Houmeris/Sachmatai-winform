@@ -1,0 +1,11 @@
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\bin\Debug\Sachmatai.dll
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\bin\Debug\Sachmatai.pdb
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\obj\Debug\Sachmatai.csproj.CoreCompileInputs.cache
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\obj\Debug\Sachmatai.dll
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\obj\Debug\Sachmatai.pdb
+C:\Users\Houm\source\repos\Libraries\Sachmatai.dll
+C:\Users\Houm\source\repos\Libraries\Sachmatai.pdb
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Sachmatai.dll
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\obj\Debug\Sachmatai.Properties.Resources.resources
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\obj\Debug\Sachmatai.csproj.GenerateResource.cache
+C:\Users\Houm\source\repos\M.D Sachmatu projektas\Sachmatai\obj\Debug\Sachmatai.csprojAssemblyReference.cache
